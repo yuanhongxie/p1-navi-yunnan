@@ -1,0 +1,20 @@
+# 大文件一律不传
+*.tif
+*.TIF
+*.tiff
+*.img
+*.zip
+*.7z
+*.rar
+*.tar.gz
+
+# ArcGIS 工程文件
+*.aprx
+*.gdb/
+*.lyrx
+*.mxd
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
